@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @manojmpg114
-- 👀 I’m interested in ... Stock Markets and Derivatives trading 
-- 🌱 I’m currently learning ... Python in relation to work but also as a form of automation for data sciences and trading bots. 
+# 👋 Hi, I'm Manoj George
 
-I'll only be posting general studies on github or public projects where as the majority of my dev work will be private or in zero trust setups off the platform.
+[LinkedIn](https://www.linkedin.com/in/manojmgeorge/) | 📧 manojmpg114@gmail.com | U.S Citizen | 🛡️ Clearance: Top Secret//SI/TK + Full Scope Polygraph
 
-<!---
-manojmpg114/manojmpg114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+
+I'm a dedicated Project Delivery Manager and Developer with a passion for enhancing workflows through automation and AI/ML solutions. With extensive experience in Python, network security, and project management, I excel at driving efficiency and delivering impactful results.
+
+---
+
+## 💼 Professional Expertise
+
+- **Automation & AI/ML:** Spearheaded Python automation projects and developed AI/ML scripts for data analysis, significantly improving operational efficiency and data reliability.
+- **Project Leadership:** Successfully led projects that generated substantial financial gains and secured key contract extensions, showcasing the strategic value of implemented solutions.
+- **Network Security:** Enhanced network defense capabilities through automated data ingestion and advanced security protocols, ensuring robust protection and compliance.
+- **Collaborative Teamwork:** Fostered a collaborative environment through pair programming and peer-to-peer knowledge sharing, boosting team productivity and code quality.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, Java, SQL, JavaScript, HTML/CSS, TypeScript
+- **Frameworks:** Angular, JUnit, Springboot, Bootstrap
+- **Developer Tools:** AWS, Git, MySQL Workbench, VS Code, Visual Studio, Eclipse, Scrum Agile Methodologies, UIPath
+- **Technologies:** ElasticSearch, Kibana, Selenium, Pandas, NumPy, Matplotlib, Jupyter Notebooks, TensorFlow, Scikit-Learn
+- **Software Proficiency:** MS Visio, MS Office (Word, Excel, PowerPoint)
+- **Specialized Tools:** RedSeal
+
+---
+
+## 🎓 Education
+
+- **MBA** - William Paterson University
+- **B.Sc. in Computer Science** - Rowan University
+
+---
+
+I am passionate about leveraging technology to solve complex problems and drive business value. Let's connect and collaborate on innovative projects!
